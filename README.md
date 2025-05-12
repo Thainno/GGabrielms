@@ -1,16 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&width=660&lines=Hello+world+I'm+Gabriel%2C+a+front-end+developer+!)](https://git.io/typing-svg)
+[![Hello World!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&width=660&lines=Hello+world+I'm+Gabriel%2C+a+front-end+developer+!)](https://git.io/typing-svg)
 
 <img src="https://github.com/GGabrielms/GGabrielms/blob/main/Mario.gif">
 
-<h1> Tools I've worked on: </h1>
-  
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="width:50px; height:auto;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" style="width:50px;heifht:auto;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:50px;heifht:auto;" />
+---
+
+### 🛠️ Tools I've worked on:
+
+<div>
+  <img title="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>
+  <img title="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"/>
+  <img title="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 </div>  
 
-<h2> My contact: </h2>
+---
+
+### 📬 My contact:
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/gabriel-martins-744159227/" target="_blank">
@@ -25,11 +29,14 @@
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGabrielms&show_icons=true&theme=algolia  )
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GGabrielms&layout=compact&langs_count=7&theme=algolia  )
+---
 
-
+<div align="center">
+  <a href="https://github.com/GGabrielms">
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=GGabrielms&show_icons=true&theme=algolia"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGabrielms&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
+</div>
 
 
 
